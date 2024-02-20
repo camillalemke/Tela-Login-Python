@@ -21,7 +21,7 @@ while True:
     elif event == 'login':
      usuario = values['usuario']
      senha_correta = '123456'
-     usuario_correto = 'jhonatan'
+     usuario_correto = 'camilla'
      usuario = values['usuario']
      senha =  values['senha']
      if senha == senha_correta and usuario == usuario_correto:
